@@ -1,0 +1,53 @@
+.navbar-nav .nav-link {
+    color: #FBF3E4 !important;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #DFD8CA !important;
+}
+
+#nav_edi {
+    color: #FBF3E4 !important;
+}
+
+#nav_edi:hover {
+    color: #DFD8CA !important;
+}
+
+
+
+.navbar {
+    background-color: #105652;
+    color: #FBF3E4;
+    font-weight: bold;
+}
+
+
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: #FBF3E4;
+
+
+}
+
+
+#profilepic {
+    border-radius: 50%;
+}
+
+#blogtitle {
+    font-size: 4rem;
+}
+
+#about-text{
+    font-size: 1.5rem;
+}
+
+@media (min-width: 992px) {
+    #hometext {
+        font-size: 3rem;
+    }
+    #blogdetailtitle {
+        font-size: 5rem;
+    }
+}
